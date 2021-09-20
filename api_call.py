@@ -14,3 +14,11 @@ print ("CVSS v3 vector:", cvss3_vector)
 print ("\tCVSS v3 Base Score:", cvss_base_value)
 print ("\tCVSS v3 Temporal Score:", cvss_temporal_value)
 print ("\tCVSS v3 Environmental Score:", cvss_environmental_value)
+
+
+
+OUTPUT:
+  CVSS v3 vector: AV:N/AC:H/PR:H/UI:R/S:U/C:H/I:N/A:H/E:H/RL:W/RC:U/CR:L/IR:H/AR:M/MAV:H/MAC:H/MPR:N/MUI:N/MS:C/MC:N/MI:H/MA:L
+	CVSS v3 Base Score: (5.7, 'Medium')
+	CVSS v3 Temporal Score: (5.1, 'Medium')
+	CVSS v3 Environmental Score: (8.4, 'High')
