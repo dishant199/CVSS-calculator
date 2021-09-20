@@ -14,5 +14,3 @@ print ("CVSS v3 vector:", cvss3_vector)
 print ("\tCVSS v3 Base Score:", cvss_base_value)
 print ("\tCVSS v3 Temporal Score:", cvss_temporal_value)
 print ("\tCVSS v3 Environmental Score:", cvss_environmental_value)
-
-"on changing the values of te vectors we get"
